@@ -1,0 +1,31 @@
+/* STYLING THE PAGES */
+
+body {
+    background-color: #D4936A;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.body-div {
+    background-color: #FFCBAA;
+    margin: 4%;
+}
+
+.banner-div {
+    background-color: azure;
+    height: 300px;
+    width: 100%;
+    margin: 0.5%;
+    padding: 2%;
+}
+
+/* STYLING THE IMAGE PLACEHOLDERS */
+
+.image-placeholder {
+    background-color: #A45287;
+}
+
+.banner-image {
+    height: 100%;
+    width: 100%;
+}
