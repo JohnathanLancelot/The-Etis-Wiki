@@ -72,7 +72,7 @@ h1, h2, h3, h4, .subtitle, .tab-circle {
     font-family: 'Grandiflora One', cursive;
 }
 
-p {
+p, li {
     font-family: 'Libre Baskerville', serif;
     font-size: 11pt;
 }
@@ -80,4 +80,27 @@ p {
 .text-container {
     display: inline-block;
     width: 40%;
+}
+
+.text-container.text-only-on-line-container {
+    display: block;
+    text-align: center;
+    width: 80%;
+    margin: 10%;
+}
+
+li {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.footer-div {
+    text-align: center;
+    background-color: #A7A39F;
+    padding: 5%;
+    color: white;
+}
+
+.footer-div a {
+    color: #58432E;
 }
