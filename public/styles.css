@@ -5,10 +5,25 @@ body {
 
 p, li {
     line-height: 1.5;
+    text-align: left;
 }
 
 .rows {
     position: static;
+}
+
+.mimic-rows {
+    margin-top: 50px;
+    margin-left: 8%;
+    margin-right: 0%;
+    margin-bottom: 0px;
+}
+
+.index-rows {
+    margin-left: 8%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 /* Styling the image placeholders */
@@ -45,6 +60,14 @@ p, li {
     height: 500px;
     position: relative;
     left: 20%;
+}
+
+#chloe-image {
+    margin: 10px;
+    width: 40%;
+    height: 560Px;
+    display: inline-block;
+    margin-bottom: 2125px;
 }
 
 /* Styling the buttons */
@@ -98,6 +121,14 @@ h1, h2, h3, h4, .subtitle, .tab-circle {
     font-family: 'Grandiflora One', cursive;
 }
 
+#index-header, #mimics-header {
+    margin-bottom: 4%;
+}
+
+#mimic-text {
+    margin-top: 130px;
+}
+
 p, li {
     font-family: 'Libre Baskerville', serif;
     font-size: 11pt;
@@ -119,6 +150,16 @@ p, li {
     margin-right: 10%;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+#female-etis-text {
+    position: relative;
+    top: -75px;
+}
+
+#intersex-etis-text {
+    position: relative;
+    top: -250px;
 }
 
 #mates-and-offspring-behaviour-text {
@@ -148,6 +189,16 @@ ul, ol {
     margin-top: 30pt;
 }
 
+.form-heading {
+    text-align: center;
+}
+
+form {
+    margin-top: 30px;
+    position: relative;
+    left: 47%;
+}
+
 .footer-div {
     text-align: center;
     background-color: #A7A39F;
@@ -160,4 +211,12 @@ ul, ol {
 
 .footer-div a {
     color: #58432E;
+}
+
+.footer-div p {
+    text-align: center;
+}
+
+#quiz-footer {
+    margin-top: 100px;
 }
