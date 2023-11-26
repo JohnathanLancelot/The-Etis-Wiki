@@ -89,6 +89,20 @@ p, li {
     border-radius: 100%;
 }
 
+input[type="radio"] {
+    accent-color: #58432E;
+}
+
+input[type="submit"] {
+    background-color: #A7A39F;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    font-size: 16px;
+    font-family: 'Grandiflora One', cursive;
+    font-weight: bold;
+}
+
 /* Styling the text */
 h1 {
     font-size: 50pt;
