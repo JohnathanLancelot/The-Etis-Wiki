@@ -50,12 +50,12 @@ p, li {
     display: inline-block;
 }
 
-#male-mimic-with-young-image, #tail-positions-image {
+#male-etis-with-young-image, #tail-positions-image {
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-#etis-life-cycle-image, #etis-habitat-map-image, #male-mimic-with-young-image, #tail-positions-image, #prey-and-bugs-image, #vegetation-image {
+#etis-life-cycle-image, #etis-habitat-map-image, #male-etis-with-young-image, #tail-positions-image, #prey-and-bugs-image, #vegetation-image {
     width: 60%;
     height: 500px;
     position: relative;
